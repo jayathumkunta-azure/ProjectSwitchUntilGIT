@@ -1,0 +1,5 @@
+cno,fname,lname,sal
+"100","ram","shyam","1000"
+"101","ram","shyam","1000"
+"500","ram","shyam","1000"
+"400","ram","shyam","1000"

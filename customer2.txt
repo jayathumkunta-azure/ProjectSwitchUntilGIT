@@ -1,0 +1,5 @@
+cno,fname,lname,sal
+"500","vinay","kiran","1000"
+"200","vinay","kiran","1000"
+"700","vinay","kiran","1000"
+"102","vinay","kiran","1000"
