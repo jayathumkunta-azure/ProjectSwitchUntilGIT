@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryswitchuntil",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7dd1fbac-bf3f-4d87-a93b-246ac2b97324",
+		"tenantId": "cd319671-52e7-4a68-afa9-fcf8f89f09ea"
+	}
+}
